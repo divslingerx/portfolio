@@ -4,7 +4,7 @@ module.exports = {
   author: 'Taylor OReilly',
   url: 'https://taylororeilly.com',
   legalName: 'Taylor OReilly',
-  defaultDescription: 'I’m John and I’m a Backend & Devops engineer!',
+  defaultDescription: 'I’m Taylor and I’m a Fullstack Js Developer!',
   socialLinks: {
     twitter: 'http://www.twitter.com/divslingerx',
     github: 'https://github.com/divslingerx',
@@ -13,7 +13,7 @@ module.exports = {
     youtube: '',
     google: '',
   },
-  googleAnalyticsID: 'UA-88875900-4',
+  googleAnalyticsID: 'G-TN3F91Y40N',
   themeColor: '#6b63ff',
   backgroundColor: '#6b63ff',
   social: {
