@@ -2,7 +2,7 @@ module.exports = {
   defaultTitle: 'Taylor OReilly',
   logo: 'https://portfolio.smakosh.com/favicon/favicon-512.png',
   author: 'Taylor OReilly',
-  url: 'https://taylororeilly.com',
+  url: 'https://taylororeilly.dev',
   legalName: 'Taylor OReilly',
   defaultDescription: 'I’m Taylor and I’m a Fullstack Js Developer!',
   socialLinks: {
